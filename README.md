@@ -51,3 +51,6 @@ Thanks for all the tips and PR's and Vue version
 ## Copyright and License
 
 Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the MIT license.
+
+## Deploy
+`firebase deploy --only hosting:projonmo`
